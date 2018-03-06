@@ -1,0 +1,11 @@
+--------------------
+Student ID :
+01-131152-008
+Student Name :
+murtaza
+Student Contact No :
+8
+Student GPA :
+3.9
+Student department :
+hss

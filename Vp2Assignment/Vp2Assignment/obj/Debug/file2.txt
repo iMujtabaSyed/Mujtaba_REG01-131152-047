@@ -1,0 +1,12 @@
+--------------------
+Student ID :
+01-131152-002
+Student Name :
+awais
+Student Contact No :
+1
+Student GPA :
+4.00
+Student department :
+software
+ 

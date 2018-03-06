@@ -1,0 +1,11 @@
+------------------
+Student ID
+01-131152-001
+Student Name
+ibtesam
+Student Contact
+0333
+Student GPA
+3.9
+Student Department
+law

@@ -1,0 +1,11 @@
+--------------------
+Student ID :
+01-131152-003
+Student Name :
+talha
+Student Contact No :
+1
+Student GPA :
+3.1
+Student department :
+hss

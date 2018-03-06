@@ -1,0 +1,11 @@
+------------------
+Student ID
+01-131152-010
+Student Name
+mehroz
+Student Contact
+033333
+Student GPA
+3.01
+Student Department
+se

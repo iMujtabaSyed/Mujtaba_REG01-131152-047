@@ -1,0 +1,11 @@
+--------------------
+Student ID :
+01-131152-009
+Student Name :
+kabeer
+Student Contact No :
+3
+Student GPA :
+3.3
+Student department :
+electrical

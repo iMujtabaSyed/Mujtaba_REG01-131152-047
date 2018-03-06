@@ -1,0 +1,11 @@
+--------------------
+Student ID :
+01-131152-004
+Student Name :
+hammad akbar
+Student Contact No :
+5
+Student GPA :
+3
+Student department :
+electrical

@@ -1,0 +1,11 @@
+------------------
+Student ID
+01-131152-006
+Student Name
+mushtaq
+Student Contact
+03000
+Student GPA
+3.45
+Student Department
+hss

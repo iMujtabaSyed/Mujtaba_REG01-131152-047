@@ -1,0 +1,11 @@
+--------------------
+Student ID :
+01-131152-001
+Student Name :
+mujtaba
+Student Contact No :
+1
+Student GPA :
+3.1
+Student department :
+software
