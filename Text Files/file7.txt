@@ -1,0 +1,11 @@
+--------------------
+Student ID :
+01-131152-007
+Student Name :
+imaad
+Student Contact No :
+7
+Student GPA :
+1.9
+Student department :
+social

@@ -1,0 +1,11 @@
+--------------------
+Student ID :
+01-131152-005
+Student Name :
+hamza khan
+Student Contact No :
+4
+Student GPA :
+2.1
+Student department :
+computer engineering

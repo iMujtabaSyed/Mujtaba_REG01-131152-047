@@ -1,0 +1,11 @@
+--------------------
+Student ID :
+01-131152-003
+Student Name :
+talha arshad
+Student Contact No :
+2
+Student GPA :
+2.7
+Student department :
+electrical

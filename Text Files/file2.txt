@@ -1,0 +1,11 @@
+--------------------
+Student ID :
+01-131152-002
+Student Name :
+awais khan
+Student Contact No :
+6
+Student GPA :
+2.4
+Student department :
+software

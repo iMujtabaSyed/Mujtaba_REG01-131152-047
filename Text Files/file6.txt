@@ -1,0 +1,11 @@
+--------------------
+Student ID :
+01-131152-006
+Student Name :
+shafaat
+Student Contact No :
+2
+Student GPA :
+2.01
+Student department :
+computer science

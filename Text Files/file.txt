@@ -1,0 +1,11 @@
+--------------------
+Student ID :
+01-131152-001
+Student Name :
+mujtaba haider
+Student Contact No :
+6
+Student GPA :
+3.92
+Student department :
+software
