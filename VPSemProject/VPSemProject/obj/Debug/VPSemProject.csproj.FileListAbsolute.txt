@@ -1,0 +1,12 @@
+C:\Users\Syed Mujtaba\Documents\Visual Studio 2017\Code Snippets\Visual C#\VPSemProject\VPSemProject\bin\Debug\VPSemProject.exe.config
+C:\Users\Syed Mujtaba\Documents\Visual Studio 2017\Code Snippets\Visual C#\VPSemProject\VPSemProject\bin\Debug\VPSemProject.exe
+C:\Users\Syed Mujtaba\Documents\Visual Studio 2017\Code Snippets\Visual C#\VPSemProject\VPSemProject\bin\Debug\VPSemProject.pdb
+C:\Users\Syed Mujtaba\Documents\Visual Studio 2017\Code Snippets\Visual C#\VPSemProject\VPSemProject\obj\Debug\VPSemProject.csprojResolveAssemblyReference.cache
+C:\Users\Syed Mujtaba\Documents\Visual Studio 2017\Code Snippets\Visual C#\VPSemProject\VPSemProject\obj\Debug\VPSemProject.Form1.resources
+C:\Users\Syed Mujtaba\Documents\Visual Studio 2017\Code Snippets\Visual C#\VPSemProject\VPSemProject\obj\Debug\VPSemProject.Properties.Resources.resources
+C:\Users\Syed Mujtaba\Documents\Visual Studio 2017\Code Snippets\Visual C#\VPSemProject\VPSemProject\obj\Debug\VPSemProject.csproj.GenerateResource.Cache
+C:\Users\Syed Mujtaba\Documents\Visual Studio 2017\Code Snippets\Visual C#\VPSemProject\VPSemProject\obj\Debug\VPSemProject.csproj.CoreCompileInputs.cache
+C:\Users\Syed Mujtaba\Documents\Visual Studio 2017\Code Snippets\Visual C#\VPSemProject\VPSemProject\obj\Debug\VPSemProject.exe
+C:\Users\Syed Mujtaba\Documents\Visual Studio 2017\Code Snippets\Visual C#\VPSemProject\VPSemProject\obj\Debug\VPSemProject.pdb
+C:\Users\Syed Mujtaba\Documents\Visual Studio 2017\Code Snippets\Visual C#\VPSemProject\VPSemProject\obj\Debug\VPSemProject.MainMenu.resources
+C:\Users\Syed Mujtaba\Documents\Visual Studio 2017\Code Snippets\Visual C#\VPSemProject\VPSemProject\obj\Debug\VPSemProject.Encrypt.resources
