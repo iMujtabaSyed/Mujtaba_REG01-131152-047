@@ -61,5 +61,10 @@ namespace VPSemProject
         {
 
         }
+
+        private void Encrypt_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

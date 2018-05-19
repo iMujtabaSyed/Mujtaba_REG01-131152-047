@@ -104,6 +104,7 @@
             this.Controls.Add(this.pictureBox1);
             this.Name = "Encrypt";
             this.Text = "Encrypt";
+            this.Load += new System.EventHandler(this.Encrypt_Load);
             this.MdiChildActivate += new System.EventHandler(this.Encrypt_MdiChildActivate);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
