@@ -60,6 +60,7 @@
             this.DecryptedText.Name = "DecryptedText";
             this.DecryptedText.Size = new System.Drawing.Size(302, 20);
             this.DecryptedText.TabIndex = 2;
+            this.DecryptedText.TextChanged += new System.EventHandler(this.DecryptedText_TextChanged);
             // 
             // Decryptedmessage
             // 
@@ -78,6 +79,7 @@
             this.DecryptText.TabIndex = 4;
             this.DecryptText.Text = "Decrypt";
             this.DecryptText.UseVisualStyleBackColor = true;
+            this.DecryptText.Click += new System.EventHandler(this.DecryptText_Click);
             // 
             // AddImage
             // 
@@ -87,6 +89,7 @@
             this.AddImage.TabIndex = 5;
             this.AddImage.Text = "Add Image";
             this.AddImage.UseVisualStyleBackColor = true;
+            this.AddImage.Click += new System.EventHandler(this.AddImage_Click);
             // 
             // Decrypt
             // 

@@ -30,5 +30,12 @@ namespace VPSemProject
         {
 
         }
+
+        private void decryptToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Decrypt n = new Decrypt();
+            n.MdiParent = this;
+            n.Show();
+        }
     }
 }

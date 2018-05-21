@@ -10,3 +10,4 @@ C:\Users\Syed Mujtaba\Documents\Visual Studio 2017\Code Snippets\Visual C#\VPSem
 C:\Users\Syed Mujtaba\Documents\Visual Studio 2017\Code Snippets\Visual C#\VPSemProject\VPSemProject\obj\Debug\VPSemProject.pdb
 C:\Users\Syed Mujtaba\Documents\Visual Studio 2017\Code Snippets\Visual C#\VPSemProject\VPSemProject\obj\Debug\VPSemProject.MainMenu.resources
 C:\Users\Syed Mujtaba\Documents\Visual Studio 2017\Code Snippets\Visual C#\VPSemProject\VPSemProject\obj\Debug\VPSemProject.Encrypt.resources
+C:\Users\Syed Mujtaba\Documents\Visual Studio 2017\Code Snippets\Visual C#\VPSemProject\VPSemProject\obj\Debug\VPSemProject.Decrypt.resources

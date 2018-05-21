@@ -47,11 +47,29 @@ namespace VPSemProject
                         char text = Convert.ToChar(textBox1.Text.Substring(j, 1));
                         int converted = Convert.ToInt32(text);
                         img.SetPixel(i, j, Color.FromArgb(pixel.R, pixel.G, pixel.B,converted));
-                        MessageBox.Show("Done", "Confirmation");
                     }
+                    if (i == img.Width - 1 && j == img.Height - 1)
+                    {
+                        img.SetPixel(i, j, Color.FromArgb(pixel.R, pixel.G, textBox1.TextLength));
+                    }
+
                 }
             }
-        }
+
+            SaveFileDialog saveFile = new SaveFileDialog();
+            saveFile.Filter = "Image files(*.bmp) | *.bmp";
+            saveFile.InitialDirectory = @"C:\";
+
+            if (saveFile.ShowDialog() == DialogResult.OK)
+            {
+                filepath = saveFile.FileName.ToString();
+                pictureBox1.ImageLocation = filepath;
+
+                img.Save(filepath);
+            }
+        
+            }
+        
         private void button1_Click(object sender, EventArgs e)
         {
             EncryptMessage();
@@ -67,4 +85,5 @@ namespace VPSemProject
 
         }
     }
+
 }
