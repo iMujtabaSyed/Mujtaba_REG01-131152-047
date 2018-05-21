@@ -25,9 +25,11 @@ namespace VPSemProject
 
         private void AddImage_Click(object sender, EventArgs e)
         {
-            OpenFileDialog obj = new OpenFileDialog();
+
+           
+           OpenFileDialog obj = new OpenFileDialog();
             obj.Filter= "Image files(*.bmp) | *.bmp";
-            obj.InitialDirectory = @"C:\";
+           // obj.InitialDirectory = @"C:\";
             if(obj.ShowDialog()==DialogResult.OK)
             {
                 filepath = obj.FileName.ToString();
@@ -58,7 +60,7 @@ namespace VPSemProject
 
             SaveFileDialog saveFile = new SaveFileDialog();
             saveFile.Filter = "Image files(*.bmp) | *.bmp";
-            saveFile.InitialDirectory = @"C:\";
+           // saveFile.InitialDirectory = @"C:\";
 
             if (saveFile.ShowDialog() == DialogResult.OK)
             {
